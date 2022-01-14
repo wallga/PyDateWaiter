@@ -1,5 +1,5 @@
 # PyDateWaiter (v.Beta)
-PyDateWaiter helps waiting special day &amp; calculating remain days till that day with Python code.
+PyDateWaiter helps waiting special day(aniversary) &amp; calculating remain days till that day with Python code.
 --------------
 Made by wallga
 github : https://github.com/wallga
